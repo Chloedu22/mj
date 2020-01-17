@@ -13,6 +13,9 @@ dans index html mettre   <script type="text/javascript" src="cordova.js"></scrip
 log emulateur 
 build wwww
 
+Si problème avec version Javac:
+sudo update-alternatives --config javac
+
 
 installation du premier plugin permettant d'avoir des liens pour des url dans un autre browser
 <pre><code>cordova plugin add cordova-plugin-inappbrowser</code></pre>
